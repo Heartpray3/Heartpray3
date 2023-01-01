@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heartpray3
 - 👀 I’m interested in coding and programming!
-- 🌱 I’m currently learning informatic engineering.
+- 🌱 I’m currently learning informatics engineering.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : ely-cheikh.abass@polymtl.ca
 
