@@ -7,7 +7,6 @@
 - Research in **Reinforcement Learning** (PPO, Q-learning, TD3)
 - **FPGA acceleration** for NP-hard optimization (TSP, Max-Cut)
 - **Sim-to-real robotic control** with RGB-D perception
-- Strong focus on efficient and high-performance AI systems
 
 ## 🚀 Selected Projects
 - 🌍 Geospatial ML — Top 10/70 on Kaggle (0.89 F1)
@@ -23,4 +22,5 @@ Deep RL • AI for robotics • Large-scale optimization • SciML
 
 ## 📫 Contact
 📍 Paris-Saclay  
-🔗 LinkedIn: linkedin.com/in/ely-cheikh-abass
+✉️ ely-cheikh.abass@etud.polymtl.ca  
+🔗 linkedin.com/in/ely-cheikh-abass
