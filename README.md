@@ -23,4 +23,4 @@ Deep RL • AI for robotics • Large-scale optimization • SciML
 ## 📫 Contact
 📍 Paris-Saclay  
 ✉️ ely-cheikh.abass@etud.polymtl.ca  
-🔗 linkedin.com/in/ely-cheikh-abass
+🔗 [in/ely-cheikh-abass](https://linkedin.com/in/ely-cheikh-abass)
