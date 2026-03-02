@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Heartpray3
-- 👀 I’m interested in coding and programming!
-- 🌱 I’m currently learning informatics engineering.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me : ely-cheikh.abass@polymtl.ca
+# 👋 Hi, I'm Ely
 
-<!---
-Heartpray3/Heartpray3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 AI Engineering student @ CentraleSupélec & Polytechnique Montréal  
+🤖 Reinforcement Learning • Optimization • Robotics • Scientific ML  
+
+## 🔬 About me
+- Research in **Reinforcement Learning** (PPO, Q-learning, TD3)
+- **FPGA acceleration** for NP-hard optimization (TSP, Max-Cut)
+- **Sim-to-real robotic control** with RGB-D perception
+- Strong focus on efficient and high-performance AI systems
+
+## 🚀 Selected Projects
+- 🌍 Geospatial ML — Top 10/70 on Kaggle (0.89 F1)
+- 🤖 RL for robotic arm — millimeter real-world accuracy
+- 🎮 Game AI agent — 3rd/42 (Minimax + MCTS)
+
+## 🛠️ Tech
+`Python` `C++` `PyTorch` `scikit-learn`  
+`Reinforcement Learning` `FPGA` `Multithreading` `Qt` `Git`
+
+## 🎯 Interests
+Deep RL • AI for robotics • Large-scale optimization • SciML
+
+## 📫 Contact
+📍 Paris-Saclay  
+🔗 LinkedIn: linkedin.com/in/ely-cheikh-abass
